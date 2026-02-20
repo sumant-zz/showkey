@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nonveg</title>
+</head>
+<body>
+    <a href="./zomato.html">Home </a>
+     <center><img height="150" width="" src="./New folder/PhotoshopExtension_Image.png" alt=""></center>
+    <hr>
+<center>
+    <table border="10px">
+        <tr>
+            <td colspan="3"><center>
+                <h2>Non-Veg Special</h2>
+            </center></td>
+    
+        </tr>
+        <tr>
+            <td><img width="450" src="./New folder/nonveg1.jpg" alt=""></td>
+            <td><img width="450" src="./New folder/nonveg2.jpg" alt=""></td>
+            <td><img width="450" src="./New folder/nonveg01.jpg" alt=""></td>
+    
+        </tr>
+        <tr>
+            <td><img width="450" src="./New folder/nonveg02.jpg" alt=""></td>
+            <td><img width="450" src="./New folder/nonveg03.jpg" alt=""></td>
+            <td><img width="450" src="./New folder/nonveg5.jpg" alt=""></td>
+    
+        </tr>
+    </table>
+</center>
+</body>
+</html>
