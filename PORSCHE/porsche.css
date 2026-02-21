@@ -1,0 +1,59 @@
+body{
+    background-color:black;
+}
+.head{
+    height: 300px;
+    width:99vw;
+
+    background-color: black;
+    background-image: url(./images/bbannner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px 250px;
+}
+hr{
+    background-color: black;
+    height: 10px;
+    width:99vw;
+    color: black;
+}
+
+.imageg{
+    height: 500px;
+    width: 99vw;
+    background-color: grey;
+    background-image: url(./images/defimg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.mp{
+    height:360px;
+    width:99vw;
+
+    background-color: black;
+    background-image: url(./images/p1.jpg),url(./images/p2.jpg),url(./images/p3.jpg),url(./images/p4.jpg);
+    background-repeat: no-repeat;
+    background-size: 285px 214px;
+    background-position:50px , 390px,730px,1060px;
+}
+
+.long{
+    height:500px;
+    width:99vw;
+    background-color: black;
+    background-image: url(./images/long.jpg);
+}
+
+.pic{
+    height: 360px;
+    width:99vw;
+    background-color: black;
+    background-image: url(./images/d1.jpg),url(./images/d2.jpg),url(./images/d3.jpg);
+    background-size: 387px 242px;
+    background-repeat: no-repeat;
+    background-position: center right,center left,center;
+    
+   
+}
